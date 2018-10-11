@@ -2700,8 +2700,8 @@
 #u392 {
   border-width:0px;
   position:absolute;
-  left:1275px;
-  top:634px;
+  left:1265px;
+  top:638px;
   width:0px;
   height:0px;
   color:#FF0000;
@@ -3478,6 +3478,24 @@
   position:absolute;
   left:1287px;
   top:252px;
+  width:1px;
+  height:1px;
+}
+#u454 {
+  border-width:0px;
+  position:absolute;
+  left:1258px;
+  top:463px;
+  width:44px;
+  height:81px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u454_ann {
+  border-width:0px;
+  position:absolute;
+  left:1295px;
+  top:459px;
   width:1px;
   height:1px;
 }
