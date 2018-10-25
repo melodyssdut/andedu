@@ -814,7 +814,7 @@
 #u505 {
   position:absolute;
   left:754px;
-  top:706px;
+  top:829px;
   width:138px;
   height:36px;
 }
@@ -845,7 +845,7 @@
 #u507 {
   position:absolute;
   left:549px;
-  top:707px;
+  top:830px;
   width:138px;
   height:36px;
 }
@@ -1021,7 +1021,7 @@
 #u517 {
   position:absolute;
   left:282px;
-  top:627px;
+  top:632px;
   width:250px;
   height:22px;
   font-family:'PingFang SC Regular', 'PingFang SC';
@@ -1034,5 +1034,99 @@
   left:0px;
   top:0px;
   width:250px;
+  white-space:nowrap;
+}
+#u519_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:73px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+}
+#u519 {
+  position:absolute;
+  left:833px;
+  top:632px;
+  width:73px;
+  height:22px;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+}
+#u520 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:73px;
+  white-space:nowrap;
+}
+#u521_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:66px;
+  height:54px;
+}
+#u521 {
+  position:absolute;
+  left:931px;
+  top:616px;
+  width:66px;
+  height:54px;
+}
+#u522 {
+  position:absolute;
+  left:2px;
+  top:19px;
+  width:62px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u523_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:214px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+}
+#u523 {
+  position:absolute;
+  left:282px;
+  top:699px;
+  width:214px;
+  height:22px;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+}
+#u524 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:214px;
   white-space:nowrap;
 }
