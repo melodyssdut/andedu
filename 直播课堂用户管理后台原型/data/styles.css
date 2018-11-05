@@ -45,6 +45,8 @@
 ._文本段落 {
   text-align:left;
 }
+._流程形状 {
+}
 .line {
 }
 .label {
@@ -69,4 +71,7 @@
 ._图片 {
 }
 .image {
+}
+.checkbox {
+  text-align:left;
 }
