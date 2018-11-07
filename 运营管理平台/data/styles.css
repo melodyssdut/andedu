@@ -7,6 +7,8 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
 .image {
 }
 .placeholder {
@@ -52,9 +54,28 @@
 ._文本段落 {
   text-align:left;
 }
+._流程形状 {
+}
+._连接线 {
+}
 .line {
 }
 ._图片 {
 }
 .icon {
+}
+.table_cell {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.box_3 {
+}
+.checkbox {
+  text-align:left;
 }
