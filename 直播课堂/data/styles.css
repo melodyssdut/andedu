@@ -15,17 +15,9 @@
 }
 .ellipse {
 }
-._形状 {
+.image {
 }
-._图片 {
-}
-.button {
-}
-.primary_button {
-  color:#FFFFFF;
-}
-.link_button {
-  color:#169BD5;
+.placeholder {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -61,7 +53,7 @@
   font-style:normal;
   text-align:left;
 }
-._六级标题 {
+.heading_6 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
@@ -81,6 +73,10 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
@@ -90,7 +86,19 @@
 }
 ._流程形状 {
 }
-.table_cell {
+.html_button {
+  text-align:center;
 }
 .connector {
+}
+.sticky_3 {
+  text-align:left;
+}
+.flow_shape {
+}
+.icon {
+}
+.table_cell {
+}
+.button {
 }
