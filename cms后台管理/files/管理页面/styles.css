@@ -5531,3 +5531,26 @@
   width:43px;
   white-space:nowrap;
 }
+#u506 {
+  position:absolute;
+  left:201px;
+  top:123px;
+  width:127px;
+  height:31px;
+}
+#u506_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:127px;
+  height:31px;
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+}
+#u506_input:disabled {
+  color:grayText;
+}
