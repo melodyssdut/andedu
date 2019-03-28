@@ -2316,3 +2316,39 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u240_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:899px;
+  height:21px;
+  background:inherit;
+  background-color:rgba(215, 215, 215, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#169BD5;
+}
+#u240 {
+  position:absolute;
+  left:58px;
+  top:524px;
+  width:899px;
+  height:21px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#169BD5;
+}
+#u241 {
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:895px;
+  word-wrap:break-word;
+}
