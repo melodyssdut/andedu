@@ -11,6 +11,8 @@
 }
 .box_2 {
 }
+.box_3 {
+}
 ._图片 {
 }
 ._一级标题 {
@@ -57,8 +59,31 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
 ._流程形状 {
+}
+._连接线 {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:10px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
 .checkbox {
   text-align:left;
+}
+.placeholder {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
+}
+.icon {
 }
