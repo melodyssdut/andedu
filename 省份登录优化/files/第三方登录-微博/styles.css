@@ -12,25 +12,34 @@
   position:absolute;
   z-index:0;
 }
-#u80_img {
+#u87_img {
   position:absolute;
   left:0px;
   top:0px;
   width:402px;
   height:715px;
 }
-#u80 {
+#u87 {
   position:absolute;
   left:0px;
   top:0px;
   width:402px;
   height:715px;
 }
-#u81 {
+#u88 {
   position:absolute;
   left:2px;
   top:350px;
   width:398px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u89 {
+  position:absolute;
+  left:18px;
+  top:379px;
+  width:367px;
+  height:47px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
 }
