@@ -355,3 +355,33 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u28_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:286px;
+  height:129px;
+  background:inherit;
+  background-color:rgba(255, 0, 0, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#FFFFFF;
+}
+#u28 {
+  position:absolute;
+  left:642px;
+  top:29px;
+  width:286px;
+  height:129px;
+  color:#FFFFFF;
+}
+#u29 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:282px;
+  word-wrap:break-word;
+}
