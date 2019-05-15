@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1218px;
+  width:1093px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -16,15 +16,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:818px;
-  height:661px;
+  width:735px;
+  height:457px;
 }
 #u0 {
   position:absolute;
-  left:0px;
-  top:0px;
-  width:817px;
-  height:660px;
+  left:-1px;
+  top:-9px;
+  width:734px;
+  height:456px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
@@ -33,16 +33,16 @@
 #u1 {
   position:absolute;
   left:2px;
-  top:308px;
-  width:813px;
+  top:206px;
+  width:730px;
   word-wrap:break-word;
 }
 #u2_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:401px;
-  height:688px;
+  width:360px;
+  height:475px;
   background:inherit;
   background-color:rgba(215, 215, 215, 1);
   border:none;
@@ -53,38 +53,67 @@
 }
 #u2 {
   position:absolute;
-  left:817px;
+  left:734px;
   top:-28px;
-  width:401px;
-  height:688px;
+  width:360px;
+  height:475px;
 }
 #u3 {
   position:absolute;
   left:2px;
-  top:336px;
-  width:397px;
+  top:230px;
+  width:356px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u4_img {
+#u4 {
   position:absolute;
   left:0px;
   top:0px;
-  width:391px;
-  height:289px;
+  width:0px;
+  height:0px;
 }
-#u4 {
+#u5_img {
   position:absolute;
-  left:817px;
-  top:202px;
-  width:391px;
-  height:289px;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:266px;
 }
 #u5 {
   position:absolute;
+  left:733px;
+  top:76px;
+  width:360px;
+  height:266px;
+}
+#u6 {
+  position:absolute;
   left:2px;
-  top:136px;
-  width:387px;
+  top:125px;
+  width:356px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u7_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:350px;
+  height:27px;
+}
+#u7 {
+  position:absolute;
+  left:743px;
+  top:236px;
+  width:350px;
+  height:27px;
+}
+#u8 {
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:346px;
   visibility:hidden;
   word-wrap:break-word;
 }
